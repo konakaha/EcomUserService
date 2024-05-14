@@ -1,0 +1,1 @@
+This User Service of the Ecommerce website shows the login functionality, which connects the products and users in the backend is the part of this. Upcoming would be the security, stripe integration for checkouts and the front end part of the website.
